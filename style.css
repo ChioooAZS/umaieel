@@ -229,7 +229,7 @@ a img {
 }
 
 .menu-box {
-    width: 23%;
+    width: 30%;
     height: 100%;
     background: #9a974c;
     position: fixed;
@@ -574,6 +574,7 @@ a img {
         font-weight: 600;
         line-height: 1.2;
         padding: 5vh 0;
+        z-index:100;
         
     }
 
