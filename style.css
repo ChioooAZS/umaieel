@@ -149,7 +149,7 @@ a img {
 
 .forbg {
     height: 100vh;
-    background-image: url(pics/burn.jpg);
+    background-image: url(burn.jpg);
     background-size: cover;
     background-position: center;
     animation: 60s ease-out 0s forwards selfsize;
@@ -290,7 +290,7 @@ a img {
 .seihaiba {
     margin: 0;
     width: 100vw;
-    background-image: url(pics/sehaiba.jpg);
+    background-image: url(sehaiba.jpg);
     background-attachment: fixed;
     background-position: bottom;
     overflow: hidden;
