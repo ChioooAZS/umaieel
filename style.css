@@ -364,7 +364,7 @@ a img {
 }
 
 .twopics {
-    margin-left: 10vw;
+    margin-left: 0;
     display: inline;
 
 }
@@ -374,8 +374,8 @@ a img {
     position: absolute;
     transform: translateY(-20vh);
     animation: brushmove 3s ease-out 0s infinite alternate none;
-    top: 100vw;
-    right: 18vw;
+    top: 200vh;
+    right: 15vw;
     width: 30vw;
 
 }
